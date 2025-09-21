@@ -1,3 +1,14 @@
-sentence-transformers
-numpy
-nltk
+# Sentence embeddings
+sentence-transformers>=2.2.2
+
+# Numerical computations
+numpy>=1.24.0
+
+# Sentence splitting
+nltk>=3.8.1
+
+# HTTP requests for LLM API calls
+requests>=2.31.0
+
+# Load environment variables
+python-dotenv>=1.0.0
